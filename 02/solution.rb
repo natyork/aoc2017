@@ -22,5 +22,5 @@ class Solution
   end
 end
 
-#print Solution.new(File.readlines("input.txt")).part_one
+print Solution.new(File.readlines("input.txt")).part_one
 print Solution.new(File.readlines("input.txt")).part_two
